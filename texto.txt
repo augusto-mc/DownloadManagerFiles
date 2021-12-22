@@ -1,0 +1,6 @@
+Este é um texto de exemplo!
+Esta é a segunda linha do texto de exemplo.
+
+Acima há uma linha em branco.
+Abaixo há uma linha em preto.
+--------------------------------
